@@ -8,7 +8,7 @@ I'm a Software Engineer Intern, Content Creator at [Evitre Studio](https://evitr
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm a graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs, and Nodejs.
+- 🌱 I currently use JavaScript, Reactjs, and Nodejs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing adebayonur@gmail.com.
